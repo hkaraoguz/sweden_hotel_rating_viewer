@@ -1,0 +1,299 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Stockholm,59.3294,18.0686,Sweden,SE,Stockholm,primary,972647,972647
+Gothenburg,57.6717,11.9810,Sweden,SE,Västra Götaland,admin,600473,600473
+Malmö,55.5932,13.0214,Sweden,SE,Skåne,admin,321845,321845
+Uppsala,59.8498,17.6389,Sweden,SE,Uppsala,admin,164535,164535
+Uppsala,59.8601,17.6400,Sweden,SE,Stockholm,,133117,127734
+Västerås,59.6173,16.5422,Sweden,SE,Västmanland,admin,127799,127799
+Örebro,59.2669,15.1965,Sweden,SE,Örebro,admin,125817,125817
+Linköping,58.4094,15.6257,Sweden,SE,Östergötland,admin,114582,114582
+Helsingborg,56.0424,12.7210,Sweden,SE,Skåne,minor,112496,112496
+Jönköping,57.7713,14.1650,Sweden,SE,Jönköping,admin,89780,83202
+Umeå,63.8285,20.2706,Sweden,SE,Västerbotten,admin,89607,89607
+Norrköping,58.5954,16.1787,Sweden,SE,Östergötland,minor,88639,82903
+Karlstad,59.3671,13.4999,Sweden,SE,Värmland,admin,74141,59266
+Sundsvall,62.4001,17.3167,Sweden,SE,Västernorrland,minor,73389,48463
+Gävle,60.6670,17.1666,Sweden,SE,Gävleborg,admin,68635,67836
+Borås,57.7304,12.9200,Sweden,SE,Västra Götaland,minor,65008,63223
+Växjö,56.8837,14.8167,Sweden,SE,Kronoberg,admin,59600,46535
+Halmstad,56.6718,12.8556,Sweden,SE,Halland,admin,55657,55209
+Luleå,65.5838,22.1915,Sweden,SE,Norrbotten,admin,48749,48749
+Östersund,63.1833,14.6500,Sweden,SE,Jämtland,admin,46178,42940
+Trollhättan,58.2671,12.3000,Sweden,SE,Västra Götaland,minor,44543,44522
+Kalmar,56.6694,16.3218,Sweden,SE,Kalmar,admin,41110,41110
+Borlänge,60.4833,15.4167,Sweden,SE,Dalarna,minor,39422,38527
+Mölndal,57.6542,12.0139,Sweden,SE,Västra Götaland,minor,37233,37233
+Falun,60.6130,15.6470,Sweden,SE,Dalarna,admin,36477,36477
+Karlskrona,56.2030,15.2960,Sweden,SE,Blekinge,admin,35212,35212
+Nyköping,58.7582,17.0185,Sweden,SE,Södermanland,admin,33546,33546
+Kristianstad,56.0337,14.1333,Sweden,SE,Skåne,minor,32188,21339
+Skellefteå,64.7721,20.9500,Sweden,SE,Västerbotten,minor,31311,30839
+Örnsköldsvik,63.3180,18.7167,Sweden,SE,Västernorrland,minor,27749,25063
+Visby,57.6290,18.3071,Sweden,SE,Gotland,admin,24693,24693
+Huskvarna,57.7919,14.2756,Sweden,SE,Jönköping,,22000,22000
+Vänersborg,58.3630,12.3300,Sweden,SE,Västra Götaland,minor,21835,21835
+Härnösand,62.6323,17.9379,Sweden,SE,Västernorrland,admin,18624,18624
+Kiruna,67.8500,20.2166,Sweden,SE,Norrbotten,minor,18154,8450
+Höganäs,56.1960,12.5769,Sweden,SE,Skåne,minor,15795,15795
+Kinna,57.4954,12.6805,Sweden,SE,Västra Götaland,minor,15373,15373
+Mariestad,58.7050,13.8280,Sweden,SE,Västra Götaland,minor,14891,14891
+Mjölby,58.3321,15.1312,Sweden,SE,Östergötland,minor,13914,13914
+Bollnäs,61.3520,16.3666,Sweden,SE,Gävleborg,minor,13398,12145
+Mora,61.0096,14.5635,Sweden,SE,Dalarna,minor,12858,12858
+Ulricehamn,57.7917,13.4186,Sweden,SE,Västra Götaland,minor,11443,11443
+Tibro,58.4190,14.1580,Sweden,SE,Västra Götaland,minor,8572,8572
+Habo,57.9066,14.0856,Sweden,SE,Jönköping,minor,8455,8455
+Tidaholm,58.1794,13.9599,Sweden,SE,Västra Götaland,minor,8233,8233
+Strömstad,58.9441,11.1864,Sweden,SE,Västra Götaland,minor,7355,7355
+Haparanda,65.8342,24.1170,Sweden,SE,Norrbotten,minor,6642,6642
+Hjo,58.3044,14.2786,Sweden,SE,Västra Götaland,minor,6351,6351
+Kungsör,59.4227,16.1059,Sweden,SE,Västmanland,minor,5898,5898
+Vårgårda,58.0341,12.8083,Sweden,SE,Västra Götaland,minor,5735,5735
+Hjärup,55.6707,13.1410,Sweden,SE,Skåne,,5607,5607
+Töreboda,58.7020,14.1184,Sweden,SE,Västra Götaland,minor,4691,4691
+Herrljunga,58.0752,13.0238,Sweden,SE,Västra Götaland,minor,4126,4126
+Kisa,57.9857,15.6305,Sweden,SE,Östergötland,minor,3813,3813
+Karlsborg,58.5268,14.5231,Sweden,SE,Västra Götaland,minor,3761,3761
+Svenljunga,57.4960,13.1102,Sweden,SE,Västra Götaland,minor,3730,3730
+Tranemo,57.4838,13.3587,Sweden,SE,Västra Götaland,minor,3375,3375
+Åre,63.3938,12.9351,Sweden,SE,Jämtland,,3282,3282
+Glumslöv,55.9425,12.8079,Sweden,SE,Skåne,,2270,2270
+Övertorneå,66.3881,23.6436,Sweden,SE,Norrbotten,minor,1781,1781
+Gullspång,58.9862,14.0956,Sweden,SE,Västra Götaland,,1594,1594
+Hortlax,65.2819,21.4054,Sweden,SE,Norrbotten,,1098,1098
+Sparreholm,59.0736,16.8234,Sweden,SE,Södermanland,,725,725
+Grangärde,60.2667,14.9833,Sweden,SE,Dalarna,,351,351
+Sundbyberg,59.3667,17.9667,Sweden,SE,Stockholm,minor,,
+Solna,59.3667,18.0167,Sweden,SE,Stockholm,minor,,
+Lund,55.7000,13.1833,Sweden,SE,Skåne,minor,,
+Trelleborg,55.3667,13.1667,Sweden,SE,Skåne,minor,,
+Kungsbacka,57.4833,12.0667,Sweden,SE,Halland,minor,,
+Lidingö,59.3667,18.1333,Sweden,SE,Stockholm,minor,,
+Jakobsberg,59.4167,17.8333,Sweden,SE,Stockholm,minor,,
+Sollentuna,59.4667,17.9000,Sweden,SE,Stockholm,minor,,
+Varberg,57.1086,12.2661,Sweden,SE,Halland,minor,,
+Djursholm,59.4000,18.0833,Sweden,SE,Stockholm,minor,,
+Ystad,55.4167,13.8167,Sweden,SE,Skåne,minor,,
+Nacka,59.3000,18.1667,Sweden,SE,Stockholm,minor,,
+Falkenberg,56.8981,12.5019,Sweden,SE,Halland,minor,,
+Täby,59.5000,18.0500,Sweden,SE,Stockholm,minor,,
+Lysekil,58.2833,11.4333,Sweden,SE,Västra Götaland,minor,,
+Tumba,59.2000,17.8167,Sweden,SE,Stockholm,minor,,
+Arlöv,55.6333,13.0667,Sweden,SE,Skåne,minor,,
+Kungälv,57.8667,11.9667,Sweden,SE,Västra Götaland,minor,,
+Lidköping,58.5000,13.1667,Sweden,SE,Västra Götaland,minor,,
+Hässleholm,56.1500,13.7667,Sweden,SE,Skåne,minor,,
+Eskilstuna,59.3667,16.5000,Sweden,SE,Södermanland,minor,,
+Lomma,55.6833,13.0833,Sweden,SE,Skåne,minor,,
+Södertälje,59.2000,17.6167,Sweden,SE,Stockholm,minor,,
+Borgholm,56.8833,16.6500,Sweden,SE,Kalmar,minor,,
+Tyresö,59.2333,18.3000,Sweden,SE,Stockholm,minor,,
+Uddevalla,58.3667,11.9333,Sweden,SE,Västra Götaland,minor,,
+Huddinge,59.2333,17.9833,Sweden,SE,Stockholm,minor,,
+Norrtälje,59.7667,18.7000,Sweden,SE,Stockholm,minor,,
+Oskarshamn,57.2667,16.4333,Sweden,SE,Kalmar,minor,,
+Skövde,58.4000,13.8500,Sweden,SE,Västra Götaland,minor,,
+Landskrona,55.8667,12.8333,Sweden,SE,Skåne,minor,,
+Arvika,59.6667,12.5667,Sweden,SE,Värmland,minor,,
+Västervik,57.7500,16.6333,Sweden,SE,Kalmar,minor,,
+Mölnlycke,57.6500,12.1333,Sweden,SE,Västra Götaland,minor,,
+Avesta,60.1500,16.2000,Sweden,SE,Dalarna,minor,,
+Ängelholm,56.2500,12.8667,Sweden,SE,Skåne,minor,,
+Partille,57.7333,12.1167,Sweden,SE,Västra Götaland,minor,,
+Nynäshamn,58.9044,17.9464,Sweden,SE,Stockholm,minor,,
+Stenungsund,58.0833,11.8167,Sweden,SE,Västra Götaland,minor,,
+Öckerö,57.7081,11.6413,Sweden,SE,Västra Götaland,minor,,
+Bålsta,59.5833,17.5000,Sweden,SE,Uppsala,minor,,
+Åstorp,56.1333,12.9500,Sweden,SE,Skåne,minor,,
+Märsta,59.6167,17.8500,Sweden,SE,Stockholm,minor,,
+Ekerö,59.2667,17.7333,Sweden,SE,Stockholm,minor,,
+Enköping,59.6333,17.0667,Sweden,SE,Uppsala,minor,,
+Älmhult,56.5500,14.1333,Sweden,SE,Kronoberg,minor,,
+Söderhamn,61.3000,17.0500,Sweden,SE,Gävleborg,minor,,
+Skara,58.3667,13.4167,Sweden,SE,Västra Götaland,minor,,
+Staffanstorp,55.6333,13.2167,Sweden,SE,Skåne,minor,,
+Oxelösund,58.6667,17.1000,Sweden,SE,Södermanland,minor,,
+Rönninge,59.2000,17.7333,Sweden,SE,Stockholm,minor,,
+Lerum,57.7667,12.2667,Sweden,SE,Västra Götaland,minor,,
+Motala,58.5500,15.0500,Sweden,SE,Östergötland,minor,,
+Ljungby,56.8333,13.9333,Sweden,SE,Kronoberg,minor,,
+Falköping,58.1667,13.5500,Sweden,SE,Västra Götaland,minor,,
+Kävlinge,55.8000,13.1000,Sweden,SE,Skåne,minor,,
+Skoghall,59.3333,13.4333,Sweden,SE,Värmland,minor,,
+Skurup,55.4667,13.5000,Sweden,SE,Skåne,minor,,
+Upplands Väsby,59.5167,17.9000,Sweden,SE,Stockholm,minor,,
+Åkersberga,59.4833,18.3000,Sweden,SE,Stockholm,minor,,
+Emmaboda,56.6333,15.5333,Sweden,SE,Kalmar,minor,,
+Knivsta,59.7167,17.8000,Sweden,SE,Uppsala,minor,,
+Gustavsberg,59.3167,18.3833,Sweden,SE,Stockholm,minor,,
+Alingsås,57.9333,12.5167,Sweden,SE,Västra Götaland,minor,,
+Kungsängen,59.4833,17.7500,Sweden,SE,Stockholm,minor,,
+Nybro,56.7500,15.9000,Sweden,SE,Kalmar,minor,,
+Vallentuna,59.5333,18.0833,Sweden,SE,Stockholm,minor,,
+Kumla,59.1333,15.1333,Sweden,SE,Örebro,minor,,
+Sjöbo,55.6333,13.7000,Sweden,SE,Skåne,minor,,
+Sandviken,60.6167,16.7667,Sweden,SE,Gävleborg,minor,,
+Nässjö,57.6500,14.6833,Sweden,SE,Jönköping,minor,,
+Eslöv,55.8333,13.3333,Sweden,SE,Skåne,minor,,
+Vellinge,55.4667,13.0167,Sweden,SE,Skåne,minor,,
+Hudiksvall,61.7333,17.1125,Sweden,SE,Gävleborg,minor,,
+Bjuv,56.0833,12.9000,Sweden,SE,Skåne,minor,,
+Forshaga,59.5333,13.4667,Sweden,SE,Värmland,minor,,
+Bromölla,56.0667,14.4667,Sweden,SE,Skåne,minor,,
+Simrishamn,55.5500,14.3333,Sweden,SE,Skåne,minor,,
+Lilla Edet,58.1333,12.1333,Sweden,SE,Västra Götaland,minor,,
+Strängnäs,59.3833,17.0333,Sweden,SE,Södermanland,minor,,
+Timrå,62.4778,17.3069,Sweden,SE,Västernorrland,minor,,
+Laholm,56.5167,13.0333,Sweden,SE,Halland,minor,,
+Grästorp,58.3333,12.6833,Sweden,SE,Västra Götaland,minor,,
+Västerhaninge,59.1167,18.1000,Sweden,SE,Stockholm,minor,,
+Svedala,55.5000,13.2333,Sweden,SE,Skåne,minor,,
+Vetlanda,57.4333,15.0667,Sweden,SE,Jönköping,minor,,
+Båstad,56.4322,12.8333,Sweden,SE,Skåne,minor,,
+Hultsfred,57.4833,15.8333,Sweden,SE,Kalmar,minor,,
+Gislaved,57.3000,13.5333,Sweden,SE,Jönköping,minor,,
+Värnamo,57.1833,14.0333,Sweden,SE,Jönköping,minor,,
+Hallstahammar,59.6167,16.2167,Sweden,SE,Västmanland,minor,,
+Säffle,59.1333,12.9000,Sweden,SE,Värmland,minor,,
+Alafors,57.9333,12.0833,Sweden,SE,Västra Götaland,minor,,
+Tomelilla,55.5500,13.9500,Sweden,SE,Skåne,minor,,
+Ludvika,60.1500,15.1833,Sweden,SE,Dalarna,minor,,
+Vadstena,58.4500,14.9000,Sweden,SE,Östergötland,minor,,
+Sala,59.9167,16.6000,Sweden,SE,Västmanland,minor,,
+Tranås,58.0500,14.9833,Sweden,SE,Jönköping,minor,,
+Skärhamn,57.9967,11.5561,Sweden,SE,Västra Götaland,minor,,
+Eksjö,57.6667,14.9500,Sweden,SE,Jönköping,minor,,
+Kristinehamn,59.3333,14.1167,Sweden,SE,Värmland,minor,,
+Gnosjö,57.3667,13.7333,Sweden,SE,Jönköping,minor,,
+Klippan,56.1333,13.1333,Sweden,SE,Skåne,minor,,
+Kungshamn,58.3500,11.2500,Sweden,SE,Västra Götaland,minor,,
+Hallsberg,59.0667,15.1167,Sweden,SE,Örebro,minor,,
+Vara,58.2667,12.9500,Sweden,SE,Västra Götaland,minor,,
+Köping,59.5167,16.0000,Sweden,SE,Västmanland,minor,,
+Nykvarn,59.1833,17.4333,Sweden,SE,Stockholm,minor,,
+Henån,58.2333,11.6833,Sweden,SE,Västra Götaland,minor,,
+Lessebo,56.7500,15.2667,Sweden,SE,Kronoberg,minor,,
+Karlskoga,59.3333,14.5167,Sweden,SE,Örebro,minor,,
+Kil,59.5167,13.3167,Sweden,SE,Värmland,minor,,
+Hofors,60.5500,16.2833,Sweden,SE,Gävleborg,minor,,
+Höör,55.9333,13.5333,Sweden,SE,Skåne,minor,,
+Trosa,58.9000,17.5500,Sweden,SE,Södermanland,minor,,
+Vimmerby,57.6667,15.8500,Sweden,SE,Kalmar,minor,,
+Mellerud,58.7000,12.4667,Sweden,SE,Västra Götaland,minor,,
+Olofström,56.2667,14.5000,Sweden,SE,Blekinge,minor,,
+Hörby,55.8500,13.6500,Sweden,SE,Skåne,minor,,
+Svalöv,55.9167,13.1000,Sweden,SE,Skåne,minor,,
+Surahammar,59.7167,16.2167,Sweden,SE,Västmanland,minor,,
+Gnesta,59.0500,17.3000,Sweden,SE,Södermanland,minor,,
+Flen,59.0667,16.5833,Sweden,SE,Södermanland,minor,,
+Finspång,58.7167,15.7833,Sweden,SE,Östergötland,minor,,
+Hyltebruk,57.0000,13.2333,Sweden,SE,Halland,minor,,
+Fagersta,60.0000,15.7833,Sweden,SE,Västmanland,minor,,
+Örkelljunga,56.2833,13.2833,Sweden,SE,Skåne,minor,,
+Bollebygd,57.6667,12.5500,Sweden,SE,Västra Götaland,minor,,
+Perstorp,56.1333,13.3833,Sweden,SE,Skåne,minor,,
+Skutskär,60.6333,17.4167,Sweden,SE,Uppsala,minor,,
+Alvesta,56.9000,14.5500,Sweden,SE,Kronoberg,minor,,
+Götene,58.5333,13.4833,Sweden,SE,Västra Götaland,minor,,
+Arboga,59.4000,15.8333,Sweden,SE,Västmanland,minor,,
+Sollefteå,63.1667,17.2667,Sweden,SE,Västernorrland,minor,,
+Ronneby,56.2000,15.3000,Sweden,SE,Blekinge,minor,,
+Katrineholm,59.0000,16.2000,Sweden,SE,Södermanland,minor,,
+Broby,56.2500,14.0833,Sweden,SE,Skåne,minor,,
+Skillingaryd,57.4333,14.0833,Sweden,SE,Jönköping,minor,,
+Mönsterås,57.0333,16.4333,Sweden,SE,Kalmar,minor,,
+Nossebro,58.1833,12.7167,Sweden,SE,Västra Götaland,minor,,
+Osby,56.3667,13.9833,Sweden,SE,Skåne,minor,,
+Kramfors,62.9333,17.7925,Sweden,SE,Västernorrland,minor,,
+Mullsjö,57.9167,13.8833,Sweden,SE,Jönköping,minor,,
+Markaryd,56.4333,13.6000,Sweden,SE,Kronoberg,minor,,
+Sävsjö,57.4000,14.6667,Sweden,SE,Jönköping,minor,,
+Munkedal,58.4833,11.6833,Sweden,SE,Västra Götaland,minor,,
+Krokom,63.3333,14.4500,Sweden,SE,Jämtland,minor,,
+Bengtsfors,59.0333,12.2167,Sweden,SE,Västra Götaland,minor,,
+Vingåker,59.0333,15.8667,Sweden,SE,Södermanland,minor,,
+Mörbylånga,56.5167,16.3833,Sweden,SE,Kalmar,minor,,
+Munkfors,59.8333,13.5333,Sweden,SE,Värmland,minor,,
+Tingsryd,56.5333,14.9833,Sweden,SE,Kronoberg,minor,,
+Åmål,59.0500,12.7000,Sweden,SE,Västra Götaland,minor,,
+Hedemora,60.2833,15.9833,Sweden,SE,Dalarna,minor,,
+Degerfors,59.2333,14.4333,Sweden,SE,Örebro,minor,,
+Söderköping,58.4833,16.3000,Sweden,SE,Östergötland,minor,,
+Aneby,57.8333,14.8000,Sweden,SE,Jönköping,minor,,
+Tanumshede,58.7333,11.3167,Sweden,SE,Västra Götaland,minor,,
+Charlottenberg,59.8833,12.2833,Sweden,SE,Värmland,minor,,
+Heby,59.9333,16.8833,Sweden,SE,Uppsala,minor,,
+Laxå,58.9833,14.6167,Sweden,SE,Örebro,minor,,
+Askersund,58.8833,14.9000,Sweden,SE,Örebro,minor,,
+Vaxholm,59.4000,18.3333,Sweden,SE,Stockholm,minor,,
+Fjugesta,59.1667,14.8667,Sweden,SE,Örebro,minor,,
+Årjäng,59.3833,12.1333,Sweden,SE,Värmland,minor,,
+Säter,60.3500,15.7500,Sweden,SE,Dalarna,minor,,
+Gagnef,60.5833,15.0667,Sweden,SE,Dalarna,minor,,
+Lindesberg,59.5833,15.2500,Sweden,SE,Örebro,minor,,
+Färgelanda,58.5667,12.0000,Sweden,SE,Västra Götaland,minor,,
+Smedjebacken,60.1333,15.4167,Sweden,SE,Dalarna,minor,,
+Boden,65.8333,21.7000,Sweden,SE,Norrbotten,minor,,
+Nora,59.5167,15.0333,Sweden,SE,Örebro,minor,,
+Sunne,59.8333,13.1500,Sweden,SE,Värmland,minor,,
+Åtvidaberg,58.2000,16.0000,Sweden,SE,Östergötland,minor,,
+Vännäs,63.9167,19.7500,Sweden,SE,Västerbotten,minor,,
+Grums,59.3167,13.1000,Sweden,SE,Värmland,minor,,
+Kalix,65.8500,23.1333,Sweden,SE,Norrbotten,minor,,
+Torsås,56.4000,16.0000,Sweden,SE,Kalmar,minor,,
+Torsby,60.1333,13.0000,Sweden,SE,Värmland,minor,,
+Hova,58.8667,14.1833,Sweden,SE,Västra Götaland,minor,,
+Norberg,60.0667,15.9333,Sweden,SE,Västmanland,minor,,
+Piteå,65.3333,21.5000,Sweden,SE,Norrbotten,minor,,
+Östhammar,60.2667,18.3667,Sweden,SE,Uppsala,minor,,
+Åseda,57.1667,15.3333,Sweden,SE,Kronoberg,minor,,
+Tierp,60.3333,17.5000,Sweden,SE,Uppsala,minor,,
+Leksand,60.7333,15.0167,Sweden,SE,Dalarna,minor,,
+Högsby,57.1667,16.0333,Sweden,SE,Kalmar,minor,,
+Ödeshög,58.2333,14.6500,Sweden,SE,Östergötland,minor,,
+Storfors,59.5333,14.2667,Sweden,SE,Värmland,minor,,
+Boxholm,58.2000,15.0500,Sweden,SE,Östergötland,minor,,
+Valdemarsvik,58.2000,16.6000,Sweden,SE,Östergötland,minor,,
+Hällefors,59.7833,14.5000,Sweden,SE,Örebro,minor,,
+Kopparberg,59.8667,14.9833,Sweden,SE,Örebro,minor,,
+Bergsjö,61.9833,17.0667,Sweden,SE,Gävleborg,minor,,
+Edsbyn,61.3833,15.8167,Sweden,SE,Gävleborg,minor,,
+Skinnskatteberg,59.8333,15.6833,Sweden,SE,Västmanland,minor,,
+Filipstad,59.7167,14.1667,Sweden,SE,Värmland,minor,,
+Ed,58.9167,11.9167,Sweden,SE,Västra Götaland,minor,,
+Hagfors,60.0333,13.6500,Sweden,SE,Värmland,minor,,
+Nordmaling,63.5667,19.5000,Sweden,SE,Västerbotten,minor,,
+Ockelbo,60.8833,16.7167,Sweden,SE,Gävleborg,minor,,
+Ljusdal,61.8333,16.1000,Sweden,SE,Gävleborg,minor,,
+Robertsfors,64.1833,20.8500,Sweden,SE,Västerbotten,minor,,
+Österbymo,57.8333,15.2667,Sweden,SE,Östergötland,minor,,
+Älvsbyn,65.6667,21.0000,Sweden,SE,Norrbotten,minor,,
+Vansbro,60.5167,14.2167,Sweden,SE,Dalarna,minor,,
+Orsa,61.1167,14.6167,Sweden,SE,Dalarna,minor,,
+Malung,60.6667,13.7000,Sweden,SE,Dalarna,minor,,
+Svenstavik,62.7667,14.4500,Sweden,SE,Jämtland,minor,,
+Hammarstrand,63.1000,16.3500,Sweden,SE,Jämtland,minor,,
+Ånge,62.5167,15.6167,Sweden,SE,Västernorrland,minor,,
+Strömsund,63.8500,15.5833,Sweden,SE,Jämtland,minor,,
+Bräcke,62.7500,15.4167,Sweden,SE,Jämtland,minor,,
+Norsjö,64.9167,19.4833,Sweden,SE,Västerbotten,minor,,
+Järpen,63.3500,13.4833,Sweden,SE,Jämtland,minor,,
+Lycksele,64.6000,18.6667,Sweden,SE,Västerbotten,minor,,
+Vindeln,64.2000,19.7333,Sweden,SE,Västerbotten,minor,,
+Älvdalen,61.2333,14.0333,Sweden,SE,Dalarna,minor,,
+Malå,65.1833,18.7500,Sweden,SE,Västerbotten,minor,,
+Bjurholm,63.9333,19.2167,Sweden,SE,Västerbotten,minor,,
+Överkalix,66.3167,22.8333,Sweden,SE,Norrbotten,minor,,
+Storuman,65.1000,17.1000,Sweden,SE,Västerbotten,minor,,
+Arvidsjaur,65.5833,19.1667,Sweden,SE,Norrbotten,minor,,
+Sveg,62.0333,14.3500,Sweden,SE,Jämtland,minor,,
+Dorotea,64.2667,16.4000,Sweden,SE,Västerbotten,minor,,
+Vilhelmina,64.6167,16.6500,Sweden,SE,Västerbotten,minor,,
+Gällivare,67.1333,20.7000,Sweden,SE,Norrbotten,minor,,
+Pajala,67.2094,23.3798,Sweden,SE,Norrbotten,minor,,
+Åsele,64.1667,17.3333,Sweden,SE,Västerbotten,minor,,
+Jokkmokk,66.6050,19.8329,Sweden,SE,Norrbotten,minor,,
+Sorsele,65.5324,17.5431,Sweden,SE,Västerbotten,minor,,
+Sölvesborg,56.0500,14.5500,Sweden,SE,Blekinge,minor,,
+Arjeplog,66.0486,17.8850,Sweden,SE,Norrbotten,minor,,
+Rättvik,60.8833,15.1000,Sweden,SE,Dalarna,minor,,

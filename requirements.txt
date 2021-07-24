@@ -1,0 +1,4 @@
+pandas
+git+https://github.com/hkaraoguz/booking_scraper
+keplergl==0.2.2
+notebook
